@@ -1,0 +1,8 @@
+---
+title: "debateimpact"
+author: "CC"
+date: "11/6/2019"
+output: github_document
+---
+
+This project team is comprised of Cassie Coulter (cc4347), Sophie Miller (sm4594), Emily Halford (eah2212), and Troy Layouni (tal2145). Our tentative title is Debate Impact on Candidate Polling 2020 Election Democratic Primary. There is an important presidential election occurring next year, and we are interested in seeing how Democratic polling has progressed through the primary process. Our anticipated data sources include 538, a polling data source, and Google Trends to determine candidate name searches. We will also look use the New York Times to get data on how long candidates spoke for during debates, what topics they discussed, and any associated key words. We are interested in producing a time series depicting major events (ex. endorsements, shootings) in each candidate's campaign to see how their polling has evolved. We'll likely select a few key candidates, such as those who polled low early on but have become significant now and the consistent front runners. We'll likely have a single major timeline and then break it down but these few candidates. We will also create a dashboard that includes the interaction between google search data and debate minute breadowns. For our project timeline, we will have data compiled by 11/13/19, when we will meet again. We'll aim to complete necessary coding by 11/20/19, visualizations by 11/26/19, the written report by 12/2/19, and the screencast by 12/4/19. 
